@@ -1,0 +1,17 @@
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\Automation.Test.deps.json
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\Automation.Test.runtimeconfig.json
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\Automation.Test.runtimeconfig.dev.json
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\Automation.Test.dll
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\Automation.Test.pdb
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\automation.api.dll
+C:\Users\trinh\source\WTF\API\Automation.Test\bin\Debug\netcoreapp2.2\automation.api.pdb
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.csprojAssemblyReference.cache
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.csproj.CoreCompileInputs.cache
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.AssemblyInfoInputs.cache
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.AssemblyInfo.cs
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.csproj.CopyComplete
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.dll
+C:\Users\trinh\source\WTF\API\Automation.Test\obj\Debug\netcoreapp2.2\Automation.Test.pdb
